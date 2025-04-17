@@ -16,11 +16,14 @@ import subprocess
 
 SCRIPTS = [
     "01_download_sentinel.py",
-    "02_generate_aoi_geojson.py",
+    "02_generate_aoi_bbox.py",
     "03_download_osm_data.py",
     "04_clip_and_stack.py",
-    "05_compute_indices.py",
-    "06_visualize_indices.py"
+    "05_calculate_indices.py",
+    "06_visualize_indices.py",
+    "07_patch_stats.py",
+    "08_plot_patch_stats.py",
+    "09_interactive_map.py"
 ]
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
