@@ -1,0 +1,17 @@
+#sentinel_downloader
+eodag[copernicus]
+eodag
+tqdm
+sys
+#osm_data_downloader
+osmnx
+geopandas
+time
+#stacking
+shapely
+glob
+#indicing
+numpy
+rasterio
+#visualize
+matplotlib
