@@ -138,15 +138,6 @@ East: 98.4
 West: 95.5
 ```
 File: `data/aoi/myanmar_aoi_bbox.geojson`
-
----
-
-## Sample Outputs
-
-| NDVI Diff | NDBI Diff | Classified Patch Map |
-|-----------|-----------|----------------------|
-| ![](outputs/sample_dndvi.png) | ![](outputs/sample_dndbi.png) | ![](outputs/sample_damage_map.png) |
-
 ---
 
 ## Future Work
